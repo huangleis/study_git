@@ -1,2 +1,3 @@
+import time
 test
 test
