@@ -1,4 +1,0 @@
-import time
-test
-test
-print
